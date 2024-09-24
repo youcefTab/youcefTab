@@ -1,8 +1,8 @@
 - 👋   Hi, It's @youcef ! a computer science engineer !
 - 👀   I’m a Full Stack Web Developer mainly on Python / React - VueJs, that does not mean i don't know other languages ! 
 - 🌱   With more then 3 years experience in startups environnement ! 
-- 💞️   I’m looking for new coding ADVENTURES and CHALLENGES !
-- 📫   Let's Stay in touch, Send me an email at ytabellout@gmail.com
+
+- 📫   ytabellout@gmail.com
 
 <!---
 youcefTab/youcefTab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
