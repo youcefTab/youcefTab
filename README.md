@@ -1,6 +1,6 @@
 - 👋   Hi, It's @youcef ! a computer science engineer !
-- 👀   I’m a Full Stack Web Developer mainly on Python / React - VueJs, that does not mean i don't know other languages ! 
-- 🌱   With more then 3 years experience in startups environnement ! 
+- 👀   I’m a Full Stack Web Developer mainly on FastAPI - Django - React - VueJs, that does not mean i can't work on other languages ! 
+- 🌱   With more then 5 years of experience in startups and scale-ups environnements ! 
 
 - 📫   ytabellout@gmail.com
 
